@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     //Most repeating character 
     map<char,int>mp;
-    string s="aabbbcddd";
+    string s="Demmmmo";
     char first;
     int cnt=0;
     for(int i=0;i<s.length();i++){
