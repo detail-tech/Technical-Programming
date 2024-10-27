@@ -13,8 +13,8 @@ string fun_merge(string s1,string s2){
 
 int main() {
     //merge two string
-    string s1="Hello";
-    string s2="World";
+    string s1="ABCD";
+    string s2="PQRS";
     cout<<fun_merge(s1,s2);
 
     return 0;
