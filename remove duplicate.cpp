@@ -11,7 +11,7 @@ void fun(vector<int>&v){
 }
 
 int main() {
-    vector<int>v={1,3,2,4};
+    vector<int>v={1,2,2,2,3,3,4};
     fun(v);
 
     return 0;
